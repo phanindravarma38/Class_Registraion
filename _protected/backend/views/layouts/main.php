@@ -79,7 +79,7 @@ AppAsset::register($this);
     <footer class="footer">
         <div class="container">
         <p class="pull-left">&copy; <?= Yii::t('app', Yii::$app->name) ?> <?= date('Y') ?></p>
-        <p class="pull-right">Developed By: <strong style="color:#FFF;">Nikhil Marri, Noah-Al-Hadidi</strong></p>
+        <p class="pull-right">Developed By: <strong style="color:#FFF;">Phanindra Varma Sagiraju</strong></p>
         </div>
     </footer>
 
